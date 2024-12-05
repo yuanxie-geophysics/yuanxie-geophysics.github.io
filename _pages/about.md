@@ -28,6 +28,8 @@ My research interest includes:
 - Collision zones
 - Orogenic formation
 
+View my:  [[CV]](/pdf/CV_standford-9.pdf) 
+
 # 🔥 News
 - *2024.11*: &nbsp; Successfully defended my PhD dissertation!
 - *2024.09*: &nbsp; Honored to invited as a keynote speaker in Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
