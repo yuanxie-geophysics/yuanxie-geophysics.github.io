@@ -28,7 +28,7 @@ My research interest includes:
 - Collision zones
 - Orogenic formation
 
-View my:  <a href="/pdf/CV_standford-9.pdf" download="CV_Yuan_Xie">
+View my:  <a href="/pdf/CV_Yuanxie.pdf" download>
 <img class="png" src="/images/CV.png"  width="40pt"> </a>
 
 
