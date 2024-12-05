@@ -27,9 +27,12 @@ My research interest includes:
 - Orogenic formation
 
 # 🔥 News
-- *2024.08*: &nbsp; Champion in CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge.
-- *2024.07*: &nbsp; One paper on Unlearnable Examples for VLP is accepted in ACM MM2024.
-- *2024.07*: &nbsp; One paper on Transferability of Adversarial Examples on VLP is accepted in ECCV2024.
+- *2024.11*: &nbsp; Successfully defended my PhD diddertation and earned my doctoral degree in Geophysics!
+- *2024.11*: &nbsp; Honored to invited as a keynote speaker in Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
+- *2024.06*: &nbsp; Our work on the formation of the Tibetan Plateau is accepted in Nature Geoscience!
+- *2024.06*: &nbsp; Honored to give an invited talk at China Earthquake Administration!
+- *2023.11*: &nbsp; Honored to present at GFD seminar in ETH Zürich!
+- *2022.04*: &nbsp; Our work has been selected as Highlight of Public Interests in EGU!
 
 # 🎓 Educations 
 - *2018.09 - 2024.12*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
