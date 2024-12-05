@@ -44,7 +44,7 @@ My research interest includes:
 
 
 -	`Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Uplift of the Tibetan Plateau driven by mantle delamination from the overriding plate. *Nature Geoscience*. 2024, 17: 683–688.
-[[HTML]](https://doi.org/10.1038/s41561-024-01473-7) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[HTML]](https://doi.org/10.1038/s41561-024-01473-7) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/2024NG.pdf)
 
 </div>
 </div>
@@ -53,7 +53,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Yuan Xie`, Yong-Dong Li, Xiong Xiong. Dynamic mechanisms controlling the topography of Longmenshan area. *Science China Earth Sciences*. 2020, 63: 121–131.
-[[HTML]](https://doi.org/10.1007/s11430-019-9380-2) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+[[HTML]](https://doi.org/10.1007/s11430-019-9380-2) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/2020SCES.pdf)
 
 </div>
 </div>
