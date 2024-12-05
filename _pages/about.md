@@ -79,7 +79,6 @@ My research interest includes:
 
 
 # 🏅 Honors and Awards
--
 - *2020 \& 2023* The First Prize Scholarship for outstanding achievements during PhD’s studies. 
 - *2019.11*  Obtain the Chinese National scholarship. (Top 3%)
 - *2019.08* Win the `1st Prize` in the “Innovation Cup” Geophysical Knowledge Contest for National Students. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
@@ -94,9 +93,11 @@ My research interest includes:
 
 
 # 💬 Invited talks
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+- *2024.09*, Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
+- *2024.06*, Institute of Geophysics, China Earthquake Administration, Beijing, China.
+- *2023.11*, GFD Seminar, Department of Earth Sciences, ETH Zürich, Zürich, Swizterland.
+
+
 
 <div style="width: 200px; height: 100px; ">
  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lZAcR37iWfG21cUl-pOdK4D6_NnKXlW2av3JfhfpQHg&cl=ffffff&w=a"></script>
