@@ -31,8 +31,9 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Geophysics and Geomatics, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+- *2018.09 - 2024.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
+- *2020.11 - 2024.01*,  <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Department of Earth Science, Eth Zürich, Zürich, Switzerland
+- *2014.09 - 2018.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a>  School of Geophysics and Geomatics, China University of Geosciences, Wuhan China. 
  
 
 # 📝 Publications 
