@@ -30,7 +30,7 @@ My research interest includes:
 - Orogenic formation
 
 # 🔥 News
-- *2024.11*: &nbsp; Successfully defended my PhD diddertation and earned my doctoral degree in Geophysics!
+- *2024.11*: &nbsp; Successfully defended my PhD dissertation!
 - *2024.09*: &nbsp; Honored to invited as a keynote speaker in Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
 - *2024.06*: &nbsp; Our work on the formation of the Tibetan Plateau is accepted in Nature Geoscience!
 - *2024.06*: &nbsp; Honored to give an invited talk at China Earthquake Administration!
@@ -80,7 +80,7 @@ My research interest includes:
 
 # 🏅 Honors and Awards
 -
-- *2020 \& 2023* The First Prize Scholarship for outstanding achievements during my PhD’s studies. 
+- *2020 \& 2023* The First Prize Scholarship for outstanding achievements during PhD’s studies. 
 - *2019.11*  Obtain the Chinese National scholarship. (Top 3%)
 - *2019.08* Win the `1st Prize` in the “Innovation Cup” Geophysical Knowledge Contest for National Students. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2018.06* University Outstanding Dissertation Award (Top 5%).
