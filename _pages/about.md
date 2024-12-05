@@ -19,8 +19,7 @@ redirect_from:
 
 Hi there!
 I am Yuan Xie from China University of Geosciences (Wuhan). I just finished defended my dissertation at School of Geophysics and Geomatics, China Univeristy of Geosciences (Wuhan) in Nov.2024, and will continue work as a postdoc in China Univerisity of Geosciences (Wuhan). 
-My supervisors 
-graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree.
+
 
 My research interest includes: 
 - Geodynamics
@@ -39,10 +38,13 @@ My research interest includes:
 
 # 🎓 Educations 
 - *2018.09 - 2024.12*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
+  
   PhD in Geophysics.
-- *2020.11 - 2024.01*: Department of Earth Science, ETH Zürich, Zürich, Switzerland
+- *2020.11 - 2024.01*: Department of Earth Science, ETH Zürich, Zürich, Switzerland.
+  
   PhD in Geophysics (Exchange)
-- *2014.09 - 2018.06*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China. 
+- *2014.09 - 2018.06*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
+  
   BS in Geophysics. Directly guaranteed a Ph.D. due to excellent grades.
 
 # 📝 Publications 
