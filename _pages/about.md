@@ -52,8 +52,7 @@ My research interest includes:
 
 
 
--[Uplift of the Tibetan Plateau driven by mantle delamination from the overriding plate.]
--	`Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. **Nature Geoscience**. 2024, 17: 683–688.
+- `Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Uplift of the Tibetan Plateau driven by mantle delamination from the overriding plate. *Nature Geoscience*. 2024, 17: 683–688.
 [[HTML]](https://doi.org/10.1038/s41561-024-01473-7) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/2024NG.pdf)
 
 </div>
