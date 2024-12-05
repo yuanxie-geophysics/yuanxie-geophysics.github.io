@@ -116,10 +116,12 @@ View my:  <a href="/pdf/CV_standford-11.pdf" download>
 <style>
   /* Style for the globe container */
   #globe-container {
-    width: 80px;    /* Small width for the globe */
-    height: 80px;   /* Small height for the globe */
-    margin: 20px auto 0 auto; /* Center it horizontally */
-    text-align: center;
+    width: 80px;   /* Small width for the globe */
+    height: 80px;  /* Small height for the globe */
+    position: absolute; /* Position it relative to the nearest parent */
+    right: 10px;   /* Distance from the right */
+    bottom: 10px;  /* Distance from the bottom */
+    z-index: 1000; /* Ensure it appears above other elements */
   }
 
   /* Resize iframe inside ClustrMaps (if necessary) */
