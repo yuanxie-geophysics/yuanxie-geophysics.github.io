@@ -91,7 +91,6 @@ My research interest includes:
 - *2021.10*, EGU, Vienna, Austria. *Poster*, Public Interest.
 - *2022.09*, Ada Lovelace Workshop, Heviz, Hungary. *Poster*
 - *2020.09*, Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China. *Oral*
-- *2019.12*, AGU Fall meeting, San Francisco, US. *Poster*
 - *2018.10*, CGU, Beijing. *Oral*
 
 # 💬 Invited talks
