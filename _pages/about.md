@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree.
+Hi there!
+I am Yuan Xie from China University of Geosciences (Wuhan). I just finished defended my dissertation at School of Geophysics and Geomatics, China Univeristy of Geosciences (Wuhan) in Nov.2024, and will continue work as a postdoc in China Univerisity of Geosciences (Wuhan). 
+My supervisors 
+graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree.
 
 My research interest includes: 
 - Geodynamics
@@ -28,7 +31,7 @@ My research interest includes:
 
 # 🔥 News
 - *2024.11*: &nbsp; Successfully defended my PhD diddertation and earned my doctoral degree in Geophysics!
-- *2024.11*: &nbsp; Honored to invited as a keynote speaker in Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
+- *2024.09*: &nbsp; Honored to invited as a keynote speaker in Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
 - *2024.06*: &nbsp; Our work on the formation of the Tibetan Plateau is accepted in Nature Geoscience!
 - *2024.06*: &nbsp; Honored to give an invited talk at China Earthquake Administration!
 - *2023.11*: &nbsp; Honored to present at GFD seminar in ETH Zürich!
@@ -49,7 +52,8 @@ My research interest includes:
 
 
 
--	`Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Uplift of the Tibetan Plateau driven by mantle delamination from the overriding plate. *Nature Geoscience*. 2024, 17: 683–688.
+-[Uplift of the Tibetan Plateau driven by mantle delamination from the overriding plate.]
+-	`Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. **Nature Geoscience**. 2024, 17: 683–688.
 [[HTML]](https://doi.org/10.1038/s41561-024-01473-7) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/2024NG.pdf)
 
 </div>
@@ -58,19 +62,21 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science China Earth Science 2020</div><img src='images/2020SCES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Yuan Xie`, Yong-Dong Li, Xiong Xiong. Dynamic mechanisms controlling the topography of Longmenshan area. *Science China Earth Sciences*. 2020, 63: 121–131.
+-[Dynamic mechanisms controlling the topography of Longmenshan area.]
+- `Yuan Xie`, Yong-Dong Li, Xiong Xiong.  **Science China Earth Sciences**. 2020, 63: 121–131.
 [[HTML]](https://doi.org/10.1007/s11430-019-9380-2) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/2020SCES.pdf)
 
 </div>
 </div>
 
-- Wanli Zhou, Bin Shan, Xiong Xiong, Rumeng Guo, `Yuan Xie`, Yang Xiao, Yangli Xuan. Lithospheric Thermal and Compositional Structure of Northeast China: Implications for Lithospheric Thinning. Under review in *JGR*. 2024.  
+-[Lithospheric Thermal and Compositional Structure of Northeast China: Implications for Lithospheric Thinning.]
+- Wanli Zhou, Bin Shan, Xiong Xiong, Rumeng Guo, `Yuan Xie`, Yang Xiao, Yangli Xuan.  Under review in *JGR*. 2024.  
 <!--[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)-->
 
 - `Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Lower plate delamination drives the formation of the Eastern Anatolian Plateau. In Preparation. 
 
 
-### Chinese
+<!--### Chinese-->
 ---
 
 -	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
