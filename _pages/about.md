@@ -28,7 +28,7 @@ My research interest includes:
 - Collision zones
 - Orogenic formation
 
-View my: <img class="png" src="/images/CV.png" width="20pt"> [[CV]](/pdf/CV_standford-9.pdf) 
+View my: <img class="png" src="/images/CV.png" width="30pt"> <a href="/pdf/CV_standford-9.pdf" download>
 
 
 # 🔥 News
