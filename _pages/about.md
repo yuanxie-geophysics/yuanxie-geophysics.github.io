@@ -48,7 +48,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/2020SCES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuan Xie`, Yong-Dong Li, Xiong Xiong. Dynamic mechanisms controlling the topography of Longmenshan area. *Science China Earth Sciences*. 2020, 63: 121–131.
