@@ -86,11 +86,13 @@ My research interest includes:
 
 
 # 🏭 Conferences
-
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
-
+- *2024.09*, Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China. *Oral*
+- *2023.08*, Swiss-German Geodynamics Workshop, Haltern am See, Germany. *Oral*
+- *2021.10*, EGU, Vienna, Austria. *Poster*, Public Interest.
+- *2022.09*, Ada Lovelace Workshop, Heviz, Hungary. *Poster*
+- *2020.09*, Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China. *Oral*
+- *2019.12*, AGU Fall meeting, San Francisco, US. *Poster*
+- *2018.10*, CGU, Beijing. *Oral*
 
 # 💬 Invited talks
 - *2024.09*, Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
