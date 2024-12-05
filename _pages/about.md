@@ -69,6 +69,7 @@ My research interest includes:
 - Wanli Zhou, Bin Shan, Xiong Xiong, Rumeng Guo, `Yuan Xie`, Yang Xiao, Yangli Xuan. Lithospheric Thermal and Compositional Structure of Northeast China: Implications for Lithospheric Thinning. Under review in *JGR*. 2024.  
 <!--[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)-->
 
+- `Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Lower plate delamination drives the formation of the Eastern Anatolian Plateau. In Preparation. 
 
 
 ### Chinese
