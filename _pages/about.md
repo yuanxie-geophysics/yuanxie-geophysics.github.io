@@ -21,13 +21,10 @@ I graduated from School of Mechanical Science and Engineering,  Huazhong Univers
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- Geodynamics
+- Plate tectonics
+- Collision zones
+- Orogenic formation
 
 
 # 🎓 Educations 
