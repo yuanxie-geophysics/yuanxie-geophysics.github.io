@@ -26,6 +26,10 @@ My research interest includes:
 - Collision zones
 - Orogenic formation
 
+# 🔥 News
+- *2024.08*: &nbsp; Champion in CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge.
+- *2024.07*: &nbsp; One paper on Unlearnable Examples for VLP is accepted in ACM MM2024.
+- *2024.07*: &nbsp; One paper on Transferability of Adversarial Examples on VLP is accepted in ECCV2024.
 
 # 🎓 Educations 
 - *2018.09 - 2024.12*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
@@ -71,23 +75,25 @@ My research interest includes:
 [[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
 
-
-
-
 # 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
 
-# 💬 Conferences
+
+# 🏭 Conferences
 
 - *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
 - *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
 - *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
 
 
-# 🏭 Internships
+# 💬 Invited talks
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
 - *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+
+<div style="width: 200px; height: 100px; ">
+ <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lZAcR37iWfG21cUl-pOdK4D6_NnKXlW2av3JfhfpQHg&cl=ffffff&w=a"></script>
+</div>
   
