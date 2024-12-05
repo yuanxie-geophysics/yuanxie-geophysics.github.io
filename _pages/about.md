@@ -51,9 +51,8 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 
-
 - `Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Uplift of the Tibetan Plateau driven by mantle delamination from the overriding plate. *Nature Geoscience*. 2024, 17: 683–688.
-[[HTML]](https://doi.org/10.1038/s41561-024-01473-7) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/2024NG.pdf)
+[[HTML]](https://doi.org/10.1038/s41561-024-01473-7) [[PDF]](/pdf/2024NG.pdf)
 
 </div>
 </div>
@@ -62,7 +61,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - `Yuan Xie`, Yong-Dong Li, Xiong Xiong. Dynamic mechanisms controlling the topography of Longmenshan area. *Science China Earth Sciences*. 2020, 63: 121–131.
-[[HTML]](https://doi.org/10.1007/s11430-019-9380-2) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/2020SCES.pdf)
+[[HTML]](https://doi.org/10.1007/s11430-019-9380-2) [[PDF]](/pdf/2020SCES.pdf)
 
 </div>
 </div>
@@ -76,8 +75,8 @@ My research interest includes:
 <!--### Chinese-->
 ---
 
--	`谢媛`, 李永东, 熊熊. 控制龙门山地区地形的动力学机制. *中国科学：地球科学*. 2019,44(4): 67.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+-	`谢媛`, 李永东, 熊熊. 控制龙门山地区地形的动力学机制. *中国科学：地球科学*. 2019,50(1): 79-89.  
+[[HTML]](https://doi.org/10.1360/SSTe-2019-0005) [[PDF]](/pdf/2019中国科学.pdf)  
 
 
 # 🏅 Honors and Awards
