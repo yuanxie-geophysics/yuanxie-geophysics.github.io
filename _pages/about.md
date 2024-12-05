@@ -108,5 +108,5 @@ View my:  <a href="/pdf/CV_standford-11.pdf" download>
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=peo5WQImuBV3VnlKUJkqWIjD-jKiNweZvurgPCkwj4c&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=peo5WQImuBV3VnlKUJkqWIjD-jKiNweZvurgPCkwj4c"></script>
   
