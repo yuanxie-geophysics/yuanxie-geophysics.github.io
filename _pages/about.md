@@ -22,6 +22,7 @@ I graduated from School of Mechanical Science and Engineering,  Huazhong Univers
 
 My research interest includes: 
 - Geodynamics
+- thermo-mechanical numerical modeling 
 - Plate tectonics
 - Collision zones
 - Orogenic formation
@@ -29,7 +30,7 @@ My research interest includes:
 
 # 🎓 Educations 
 - *2018.09 - 2024.12*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
-- *2020.11 - 2024.01*: Department of Earth Science, Eth Zürich, Zürich, Switzerland
+- *2020.11 - 2024.01*: Department of Earth Science, ETH Zürich, Zürich, Switzerland
 - *2014.09 - 2018.06*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China. 
  
 
