@@ -61,15 +61,13 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science China Earth Science 2020</div><img src='images/2020SCES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--[Dynamic mechanisms controlling the topography of Longmenshan area.]
-- `Yuan Xie`, Yong-Dong Li, Xiong Xiong.  **Science China Earth Sciences**. 2020, 63: 121–131.
+- `Yuan Xie`, Yong-Dong Li, Xiong Xiong. Dynamic mechanisms controlling the topography of Longmenshan area. *Science China Earth Sciences*. 2020, 63: 121–131.
 [[HTML]](https://doi.org/10.1007/s11430-019-9380-2) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/2020SCES.pdf)
 
 </div>
 </div>
 
--[Lithospheric Thermal and Compositional Structure of Northeast China: Implications for Lithospheric Thinning.]
-- Wanli Zhou, Bin Shan, Xiong Xiong, Rumeng Guo, `Yuan Xie`, Yang Xiao, Yangli Xuan.  Under review in *JGR*. 2024.  
+- Wanli Zhou, Bin Shan, Xiong Xiong, Rumeng Guo, `Yuan Xie`, Yang Xiao, Yangli Xuan. Lithospheric Thermal and Compositional Structure of Northeast China: Implications for Lithospheric Thinning. Under review in *JGR*. 2024.  
 <!--[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)-->
 
 - `Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Lower plate delamination drives the formation of the Eastern Anatolian Plateau. In Preparation. 
@@ -78,15 +76,16 @@ My research interest includes:
 <!--### Chinese-->
 ---
 
--	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
-唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
+-	`谢媛`, 李永东, 熊熊. 控制龙门山地区地形的动力学机制. *中国科学：地球科学*. 2019,44(4): 67.  
 [[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
 
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+-
+- *2020 & 2023* The First Prize Scholarship for outstanding achievements during my PhD’s studies. 
+- *2019.11*  Obtain the Chinese National scholarship. (Top 3%)
+- *2019.08* Win the `1st Prize` in the “Innovation Cup” Geophysical Knowledge Contest for National Students. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
+- *2018.06* University Outstanding Dissertation Award (Top 5%).
 
 
 # 🏭 Conferences
