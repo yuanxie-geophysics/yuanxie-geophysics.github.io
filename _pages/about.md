@@ -107,6 +107,6 @@ View my:  <a href="/pdf/CV_standford-11.pdf" download>
 - *2023.11*, GFD Seminar, Department of Earth Sciences, ETH Zürich, Zürich, Swizterland.
 
 
-
+<table width="20%" align="right" border="0" cellspacing="0" cellpadding="20">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=peo5WQImuBV3VnlKUJkqWIjD-jKiNweZvurgPCkwj4c"></script>
-  
+</table>
