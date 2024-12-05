@@ -107,6 +107,26 @@ View my:  <a href="/pdf/CV_standford-11.pdf" download>
 - *2023.11*, GFD Seminar, Department of Earth Sciences, ETH Zürich, Zürich, Swizterland.
 
 
-<table width="20%" align="right" border="0" cellspacing="0" cellpadding="20">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=peo5WQImuBV3VnlKUJkqWIjD-jKiNweZvurgPCkwj4c"></script>
-</table>
+
+<!-- Container for the globe -->
+<div id="globe-container">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=peo5WQImuBV3VnlKUJkqWIjD-jKiNweZvurgPCkwj4c"></script>
+</div>
+
+<style>
+  /* Style for the globe container */
+  #globe-container {
+    position: fixed; /* Keeps the globe in the same position as you scroll */
+    top: 10px;       /* Distance from the top */
+    left: 10px;      /* Distance from the left */
+    width: 150px;    /* Width of the globe */
+    height: 150px;   /* Height of the globe */
+    z-index: 1000;   /* Ensures it stays on top */
+  }
+
+  /* Resize iframe inside ClustrMaps (if necessary) */
+  iframe#clustrmaps-widget {
+    width: 100% !important;
+    height: 100% !important;
+  }
+</style>
