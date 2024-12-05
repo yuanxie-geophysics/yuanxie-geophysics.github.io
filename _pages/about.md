@@ -75,13 +75,12 @@ My research interest includes:
 <!--### Chinese-->
 ---
 
--	`谢媛`, 李永东, 熊熊. 控制龙门山地区地形的动力学机制. *中国科学：地球科学*. 2019,50(1): 79-89.  
-[[HTML]](https://doi.org/10.1360/SSTe-2019-0005) [[PDF]](/pdf/2019中国科学.pdf)  
+-	`谢媛`, 李永东, 熊熊. 控制龙门山地区地形的动力学机制. *中国科学：地球科学*. 2019,50(1): 79-89. [[HTML]](https://doi.org/10.1360/SSTe-2019-0005) [[PDF]](/pdf/2019中国科学.pdf)  
 
 
 # 🏅 Honors and Awards
 -
-- *2020 & 2023* The First Prize Scholarship for outstanding achievements during my PhD’s studies. 
+- *2020 \& 2023* The First Prize Scholarship for outstanding achievements during my PhD’s studies. 
 - *2019.11*  Obtain the Chinese National scholarship. (Top 3%)
 - *2019.08* Win the `1st Prize` in the “Innovation Cup” Geophysical Knowledge Contest for National Students. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2018.06* University Outstanding Dissertation Award (Top 5%).
