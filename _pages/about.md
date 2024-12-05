@@ -23,7 +23,7 @@ I am Yuan Xie from China University of Geosciences (Wuhan). I just finished defe
 
 My research interest includes: 
 - Geodynamics
-- thermo-mechanical numerical modeling 
+- Thermo-mechanical numerical modeling 
 - Plate tectonics
 - Collision zones
 - Orogenic formation
@@ -34,7 +34,7 @@ View my:  <a href="/pdf/CV_yuanxie.pdf" download>
 
 # 🔥 News
 - *2024.11*: &nbsp; Successfully defended my PhD dissertation!
-- *2024.09*: &nbsp; Honored to invited as a keynote speaker in Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau, Huanggang, China.
+- *2024.09*: &nbsp; Honored to be invited as a keynote speaker in Workshop on Tectonics and Geophysics in the east part of Tibetan Plateau.
 - *2024.06*: &nbsp; Our work on the formation of the Tibetan Plateau is accepted in Nature Geoscience!
 - *2024.06*: &nbsp; Honored to give an invited talk at China Earthquake Administration!
 - *2023.11*: &nbsp; Honored to present at GFD seminar in ETH Zürich!
