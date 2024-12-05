@@ -29,7 +29,7 @@ My research interest includes:
 - Orogenic formation
 
 View my:  <a href="/pdf/CV_standford-9.pdf" download="CV_Yuan_Xie">
-<img class="png" src="/images/CV.png"  width="104"> </a>
+<img class="png" src="/images/CV.png"  width="40pt"> </a>
 
 
 # 🔥 News
