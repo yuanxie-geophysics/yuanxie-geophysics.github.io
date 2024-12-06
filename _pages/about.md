@@ -41,15 +41,15 @@ View my:  <a href="/pdf/CV_yuanxie.pdf" download>
 - *2022.04*: &nbsp; Our work has been selected as Highlight of Public Interests in EGU!
 
 # 🎓 Educations 
-- *2018.09 - 2024.12*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
+- *2018.09 - 2024.12*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan, China.
   
   PhD in Geophysics.
 - *2020.11 - 2024.01*: Department of Earth Science, ETH Zürich, Zürich, Switzerland.
   
   PhD in Geophysics (Exchange)
-- *2014.09 - 2018.06*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan China.
+- *2014.09 - 2018.06*: School of Geophysics and Geomatics, China University of Geosciences, Wuhan, China.
   
-  BS in Geophysics. Directly guaranteed a Ph.D. due to excellent grades.
+  BS in Geophysics. 
 
 # 📝 Publications 
 
