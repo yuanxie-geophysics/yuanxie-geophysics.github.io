@@ -18,8 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi there!
-I am Yuan Xie from China University of Geosciences (Wuhan). I just finished defended my dissertation at School of Geophysics and Geomatics, China Univeristy of Geosciences (Wuhan) in Nov.2024, and will continue work as a postdoc in China Univerisity of Geosciences (Wuhan). 
+I am Yuan Xie from China University of Geosciences (Wuhan). I just defended my dissertation at School of Geophysics and Geomatics, China Univeristy of Geosciences (Wuhan) in Nov.2024, and will continue work as a research assistant in China Univerisity of Geosciences (Wuhan). 
 
+My research focuses on understanding the dynamic feedbacks between tectonic processes (e.g., lithospheric deformation and magmatic activities) and deep Earth dynamics, combining geodynamic numerical modeling, lithospheric isostasy and flexure calculations, as well as observations from subduction-collision systems. 
 
 My research interest includes: 
 - Geodynamics
