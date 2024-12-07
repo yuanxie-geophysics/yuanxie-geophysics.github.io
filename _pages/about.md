@@ -80,7 +80,7 @@ View my:  <a href="/pdf/CV_yuanxie.pdf" download>
 - `Yuan Xie`, Attila Balázs, Taras Gerya, Xiong Xiong. Lower plate delamination drives the formation of the Eastern Anatolian Plateau. In Preparation. 
 
 
-<!--### Chinese-->
+### Chinese
 ---
 
 -	`谢媛`, 李永东, 熊熊. 控制龙门山地区地形的动力学机制. *中国科学：地球科学*. 2019,50(1): 79-89. [[HTML]](https://doi.org/10.1360/SSTe-2019-0005) [[PDF]](/pdf/2019中国科学.pdf)  
