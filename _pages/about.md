@@ -88,10 +88,10 @@ View my:  <a href="/pdf/CV_yuanxie.pdf" download>
 
 
 # 🏅 Honors and Awards
-- *2020 &amp; 2023* The First Prize Scholarship for outstanding achievements during PhD’s studies. 
-- *2019.11*  Obtain the Chinese National scholarship. (Top 3%)
+- *2020 &amp; 2023* The First Prize Scholarship for outstanding research. 
+- *2019.11*  Obtain the Chinese National scholarship.
 - *2019.08* Win the 1st Prize in the “Innovation Cup” Geophysical Knowledge Contest for National Students.
-- *2018.06* University Outstanding Dissertation Award (Top 5%).
+- *2018.06* University Outstanding Dissertation Award.
 
 
 # 🏭 Conferences
