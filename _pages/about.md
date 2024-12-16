@@ -20,14 +20,16 @@ redirect_from:
 Hi there!
 I am Yuan Xie from China University of Geosciences (Wuhan). I just defended my dissertation at School of Geophysics and Geomatics, China Univeristy of Geosciences (Wuhan) in Nov.2024, and will continue work as a research assistant in China Univerisity of Geosciences (Wuhan). 
 
-My research focuses on understanding the dynamic feedbacks between tectonic processes (e.g., lithospheric deformation and magmatic activities) and deep Earth dynamics, combining geodynamic numerical modeling, lithospheric isostasy and flexure calculations, as well as observations from subduction-collision systems. 
+My research focuses on evolution of tectonic plate, with an emphasis on linking deep Earth dynamics to surface expressions such as topography and magmatism. By employing a range of investigative techniques—including numerical modeling, lithospheric isostasy and flexure analysis, alongside geophysical, geological, and geochemical observations—I explore complex geodynamic processes from multiple perspectives.
 
-My research interest includes: 
+<!--My research focuses on understanding the dynamic feedbacks between tectonic processes (e.g., lithospheric deformation and magmatic activities) and deep Earth dynamics, combining geodynamic numerical modeling, lithospheric isostasy and flexure calculations, as well as observations from subduction-collision systems. -->
+
+<!-- My research interest includes: 
 - Geodynamics
 - Thermo-mechanical numerical modeling 
 - Plate tectonics
 - Collision zones
-- Orogenic formation
+- Orogenic formation -->
 
 View my:  <a href="/pdf/CV_yuanxie.pdf" download>
 <img class="png" src="/images/CV.png"  width="40pt"> </a>
